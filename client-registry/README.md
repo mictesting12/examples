@@ -1,0 +1,1 @@
+Minimal demo for issuing a client member JSON.
